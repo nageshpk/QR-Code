@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    width: 290px;
+    max-width: 290px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
